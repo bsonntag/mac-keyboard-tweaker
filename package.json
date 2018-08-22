@@ -1,0 +1,13 @@
+{
+  "name": "mac-keyboard-tweaker",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Benjamim Sonntag <benjamimsonntag@gmail.com>",
+  "scripts": {
+    "clear": "node bin/clear.js",
+    "reset": "node bin/reset.js",
+    "setup": "node bin/setup.js",
+    "setup-cmd": "node bin/setup-cmd.js",
+    "setup-esc": "node bin/setup-esc.js"
+  }
+}
